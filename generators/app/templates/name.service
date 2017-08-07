@@ -1,0 +1,16 @@
+[Unit]
+<%= description %>
+<%= after %>
+<%= requires %>
+
+[Service]
+<%= type %>
+<%= user %>
+<%= envfile %>
+<%= execstart %>
+<%= restart %>
+<%= restartsec %>
+<%= killmode %>
+
+[Install]
+<%= wantedby %>
