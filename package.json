@@ -1,8 +1,8 @@
 {
-  "name": "generator-systemd",
+  "name": "@omm/generator-systemd",
   "version": "0.1.0",
   "description": "Generates a systemd service unit",
-  "homepage": "https://github.com/ommsolutions",
+  "homepage": "https://github.com/ommsolutions/generator-systemd",
   "author": {
     "name": "Andreas Enenkel",
     "email": "ae@omm-solutions.de"
@@ -54,6 +54,6 @@
   "engines": {
     "node": ">=6.0.0"
   },
-  "repository": "https://gitlab.omm.cloud/ae/generator-systemd",
+  "repository": "https://github.com/ommsolutions/generator-systemd",
   "license": "MIT"
 }

@@ -7,7 +7,7 @@ First, install [Yeoman](http://yeoman.io) and generator-systemd using [npm](http
 
 ```bash
 npm install -g yo
-npm install -g generator-systemd
+npm install -g @omm/generator-systemd
 ```
 
 Then generate your new project:
@@ -19,8 +19,8 @@ yo systemd
 ## License
 MIT
 
-[npm-image]: https://badge.fury.io/js/generator-systemd.svg
-[npm-url]: https://npmjs.org/package/generator-systemd
+[npm-image]: https://badge.fury.io/js/%40omm%2Fgenerator-systemd.svg
+[npm-url]: https://badge.fury.io/js/%40omm%2Fgenerator-systemd
 [travis-image]: https://travis-ci.org/ommsolutions/generator-systemd.svg?branch=master
 [travis-url]: https://travis-ci.org/ommsolutions/generator-systemd
 [coveralls-image]:https://coveralls.io/repos/github/ommsolutions/generator-systemd/badge.svg?branch=master
