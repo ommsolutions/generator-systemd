@@ -13,7 +13,7 @@ npm install -g @omm/generator-systemd
 Then generate your new project:
 
 ```bash
-yo systemd
+yo @omm/systemd
 ```
 
 ## License
